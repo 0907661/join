@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 77700cfd600466c4faffeaee3c713f8f
+timeCreated: 1495142309
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - gameObjects: {instanceID: 0}
+  - redPortal: {instanceID: 0}
+  - redPortalSwitch: {instanceID: 0}
+  - yellowPortal: {instanceID: 0}
+  - yellowPortalSwitch: {instanceID: 0}
+  - greenPortal: {instanceID: 0}
+  - greenPortalSwitch: {instanceID: 0}
+  - bluePortal: {instanceID: 0}
+  - bluePortalSwitch: {instanceID: 0}
+  - soundSource: {instanceID: 0}
+  - Sound: {fileID: 8300000, guid: 02eb134d9d5e15b4cadcbfc2652dff14, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

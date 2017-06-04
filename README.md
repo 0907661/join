@@ -1,2 +1,3 @@
-# join
-Join, a game project by Petar and Vilayat
+# JOIN
+
+A game project by Petar and Vilayat
