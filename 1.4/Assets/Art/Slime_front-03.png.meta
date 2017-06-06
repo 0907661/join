@@ -1,0 +1,412 @@
+fileFormatVersion: 2
+guid: 532c0442b8373524eac4d83ac1c4ff57
+timeCreated: 1494609378
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Slime_front-03_0
+    21300002: Slime_front-03_1
+    21300004: Slime_front-03_2
+    21300006: Slime_front-03_3
+    21300008: Slime_front-03_4
+    21300010: Slime_front-03_5
+    21300012: Slime_front-03_6
+    21300014: Slime_front-03_7
+    21300016: Slime_front-03_8
+    21300018: Slime_front-03_9
+    21300020: Slime_front-03_10
+    21300022: Slime_front-03_11
+    21300024: Slime_front-03_12
+    21300026: Slime_front-03_13
+    21300028: Slime_front-03_14
+    21300030: Slime_front-03_15
+    21300032: Slime_front-03_16
+    21300034: Slime_front-03_17
+    21300036: Slime_front-03_18
+    21300038: Slime_front-03_19
+    21300040: Slime_front-03_20
+    21300042: Slime_front-03_21
+    21300044: Slime_front-03_22
+    21300046: Slime_front-03_23
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Slime_front-03_0
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 4609
+        width: 929
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime_front-03_1
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 4609
+        width: 929
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime_front-03_2
+      rect:
+        serializedVersion: 2
+        x: 3978
+        y: 4609
+        width: 929
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime_front-03_3
+      rect:
+        serializedVersion: 2
+        x: 5710
+        y: 4609
+        width: 929
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime_front-03_4
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 3745
+        width: 929
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime_front-03_5
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 3745
+        width: 929
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime_front-03_6
+      rect:
+        serializedVersion: 2
+        x: 3978
+        y: 3745
+        width: 929
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime_front-03_7
+      rect:
+        serializedVersion: 2
+        x: 5710
+        y: 3745
+        width: 929
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime_front-03_8
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 2877
+        width: 929
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime_front-03_9
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 2877
+        width: 929
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime_front-03_10
+      rect:
+        serializedVersion: 2
+        x: 3978
+        y: 2877
+        width: 929
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime_front-03_11
+      rect:
+        serializedVersion: 2
+        x: 5710
+        y: 2877
+        width: 929
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime_front-03_12
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 2013
+        width: 929
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime_front-03_13
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 2013
+        width: 929
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime_front-03_14
+      rect:
+        serializedVersion: 2
+        x: 3978
+        y: 2013
+        width: 929
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime_front-03_15
+      rect:
+        serializedVersion: 2
+        x: 5710
+        y: 2013
+        width: 929
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime_front-03_16
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1172
+        width: 929
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime_front-03_17
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 1172
+        width: 929
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime_front-03_18
+      rect:
+        serializedVersion: 2
+        x: 3978
+        y: 1172
+        width: 929
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime_front-03_19
+      rect:
+        serializedVersion: 2
+        x: 5710
+        y: 1172
+        width: 929
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime_front-03_20
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 335
+        width: 929
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime_front-03_21
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 335
+        width: 929
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime_front-03_22
+      rect:
+        serializedVersion: 2
+        x: 3978
+        y: 335
+        width: 929
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Slime_front-03_23
+      rect:
+        serializedVersion: 2
+        x: 5710
+        y: 335
+        width: 929
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
