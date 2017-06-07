@@ -1,2 +1,2 @@
 # join
-Join, a game project by Petar and Vilayat
+Music files for our game Join.
